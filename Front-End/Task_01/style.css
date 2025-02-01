@@ -1,0 +1,10 @@
+*{
+    font-family: 'Host Grotesk';
+}
+
+body{
+    padding: 10px, 20px;
+}
+.sender-column{
+    text-align: end;
+}
