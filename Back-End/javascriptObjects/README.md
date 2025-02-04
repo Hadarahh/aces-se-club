@@ -13,5 +13,5 @@
 
     * Print out the available movies by title
 
-    * _Sad News..._ The 3rd movie has received a rotten tomato rating of -6%, _completely diabolical._
+    * *Sad News...* The 3rd movie has received a rotten tomato rating of -6%, *completely diabolical.*
        _The company has reached out to you to remove the movie from the movie catalogue and re-print the the available movies.
