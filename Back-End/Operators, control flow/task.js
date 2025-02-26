@@ -93,5 +93,6 @@ function arraySort(arr) {
         console.log("Not an array");
     } else {
         arr.sort((a, b) => a - b);
+        console.log(arr);
     }
 };
